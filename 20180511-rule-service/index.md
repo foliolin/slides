@@ -6,6 +6,10 @@
 
 ---
 
+# [PUBLISH?](./publish.jpg "PUBLISH?")
+
+---
+
 # [SIMPE RULE](./simple.jpg "SIMPLE RULE")
 
 ---
@@ -16,9 +20,13 @@
 
 # [TIMEOUT RULE](./timeout.jpg "TIMEOUT RULE")
 
+## HEALTH CHECK
+
 ---
 
 # [DURATION RULE](./duration.jpg "DURATION RULE")
+
+## NOTIFICATION
 
 ---
 
